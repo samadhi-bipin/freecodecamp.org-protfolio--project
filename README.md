@@ -1,3 +1,2 @@
 # freecodecamp.org-protfolio--project
-Protfolio Page
-https://codepen.io/agerx/pen/RwaqBqY
+Website link (Live Preview) https://codepen.io/agerx/full/RwaqBqY
